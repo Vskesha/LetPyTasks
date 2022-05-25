@@ -71,7 +71,7 @@ class TicTacToe(tk.Canvas):
 
 
 window = tk.Tk()
-window.title('Хрестики-Нолики')
+window.title('Хрестики-Нyлики')
 game = TicTacToe(window)
 game.pack()
 game.draw_lines()
