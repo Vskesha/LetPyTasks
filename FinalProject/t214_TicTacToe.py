@@ -69,6 +69,7 @@ class TicTacToe(tk.Canvas):
 
 
 
+
 window = tk.Tk()
 window.title('Хрестики-Нолики')
 game = TicTacToe(window)
